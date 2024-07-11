@@ -4,7 +4,7 @@
 
 ## Qual era o desafio?
 
-Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pronto no [Figma](https://www.figma.com/file/waisYRoNzeBgIxOyrz0b2R/Projeto01-Extra/duplicate?type=design&node-id=0-1&mode=design), para reforçar os ensinamentos da aula.
+Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pronto no [Figma](https://www.figma.com/design/HvES03DdE0zjalelxxR2LQ/Explorer-(Copy)?node-id=0-1&t=Ns1cyNmH2XkeDFd2-0), para reforçar os ensinamentos da aula.
 
 
 ## O que há no desafio?
@@ -15,4 +15,3 @@ Nesse desafio, eu deveria recriar uma aplicação, a partir de um layout pr
 - Posicionamento e alinhamento de elementos na tela;
 - Aplicando fontes customizadas;
 - Espaçamentos;
-- Favicon.
